@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-💻 I work at SSW
-🤔 I am interested in C# and JavaScript
-🌱 I am interested in learning more about Azure
+### 💻 I work at SSW
+### 🤔 I am interested in C# and JavaScript
+### 🌱 I am interested in learning more about Azure
 
 
 <!--
