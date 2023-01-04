@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💻 I work at SSW
+🤔 I am interested in C# and JavaScript
+🌱 I am interested in learning more about Azure
+
+
 <!--
 **vladislav-kir/vladislav-kir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
