@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 💻 I work at SSW
+### 💻 I work at [SSW](https://ssw.com.au/people/vlad-kireyev)
 ### 🤔 I am interested in C# and JavaScript
 ### 🌱 I am interested in learning more about Azure
 
