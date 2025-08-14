@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ### 💻 I work at [SSW](https://ssw.com.au/people/vlad-kireyev)
-### 🤔 I am interested in C# and JavaScript
-### 🌱 I am interested in learning more about Azure
+### 🤔 I am interested in .NET and Data Engineering
+### 🌱 I am interested in learning more about Azure 
 
+[![Vlad Kireyev [SSW]'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladislav-kir&amp;theme=dark)](https://github.com/vladislav-kir/github-readme-stats)
 
 <!--
 **vladislav-kir/vladislav-kir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
